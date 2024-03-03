@@ -1,0 +1,174 @@
+{
+  "words": {
+    "afraid": {
+      "transcription": "efreid",
+      "translation": "Qo'rqmoq",
+      "association": "(Alfred) tasavvur qiling, Alfred degan o‘zga sayyoralik oldingizga kelganida qo‘rqqaningizdan hushingizdan ketdingiz."
+    },
+    "agree": {
+      "transcription": "egrii",
+      "translation": "fikriga qo‘shilmoq",
+      "association": "(egri) tasavvur qiling, egri chinorga gapiryapsiz va u fikringizni ma’qullab “ha, ha” deb turibdi."
+    },
+    "angry": {
+      "transcription": "enngri",
+      "translation": "jahldor",
+      "association": "(Angren) tasavvur qiling, Toshkentning Angren tumani jahldorligi uchun boshqa tumanlar bilan urushyapti."
+    },
+    "arrive": {
+      "transcription": "errayv",
+      "translation": "yetib kelmoq",
+      "association": "(arra) tasavvur qiling ustasiz, ish joyingizga hamma asboblaringizni o‘zingiz olib keldingiz va faqat arra o‘zi yetib keldi."
+    },
+    "attack": {
+      "transcription": "ettek",
+      "translation": "hujum qilmoq",
+      "association": "(katak) tasavvur qiling tovuqsiz, mushuk hujum qilgani uchun katta kirib oldingiz."
+    },
+    "bottom": {
+      "transcription": "botem",
+      "translation": "pastki qism, tubi",
+      "association": "(bodom) tasavvur qiling, bir uydek keladigan katta bodomning tubida xazina bor va uni olyapsiz."
+    },
+    "clever": {
+      "transcription": "kleve",
+      "translation": "aqlli",
+      "association": "(kelaver) tasavvur qiling ustozsiz, bir bola sizga shogird tushishlikni xohlayapti va siz unga telefonda “aqlli bo‘lsang kelaver” deb bir necha marotaba aytyapsiz, u esa hayron…"
+    },
+    "charge": {
+        "transcription": "chaarj",
+        "translation": "narx, qiymat",
+        "association": "jarchi tasavvur qiling jarchilar arzon narxda kiyimlar bor deb savdogarlik qilib yuribdi."
+        },
+        "comfort": {
+        "transcription": "kamfert",
+        "translation": "taskin bermoq",
+        "association": "komfort tasavvur mehmonxonada asbiylashib, baqirib shikoyat qildingiz va xizmatchilar hozir sizga komfort (qulay, shinam) xona beramiz deb sizga taskin berishdi."
+        },
+        "contact": {
+        "transcription": "kontakt",
+        "translation": "aloqaga chiqmoq",
+        "association": "telefondagi kontakt tasavvur qiling biznesingiz uchun invostor topish maqsadida barcha kontaktlaringizdagi barcha odamlar bilan aloqaga chiqyapsiz."
+        },
+        "customer": {
+        "transcription": "kastemer",
+        "translation": "xaridor",
+        "association": "kastyum tasavvur qiling oziq-ovqat do‘konida xaridorlarga kastyum sotyapsiz."
+        },
+        "deliver": {
+        "transcription": "diliver",
+        "translation": "tashimoq, yetkazib bermoq",
+        "association": "Dili ber tasavvur qiling yetkazib beruvchi uyingizga ovqat olib kelganida Dili ber deyapsiz."
+        },
+        "earn": {
+        "transcription": "o‘rn",
+        "translation": "pul ishlab topmoq",
+        "association": "o‘rin tasavvur qiling o‘n trillion dollar pul ishlab topib dunyodagi boylar qatorida birinchi o‘rinda turibsiz."
+        },
+        "gate": {
+        "transcription": "geit",
+        "translation": "darvoza",
+        "association": "kel it tasavvur qilingdarvozani ochib ko‘chadagi itga kel it deyapsiz."
+        },
+        "include": {
+        "transcription": "inkluud",
+        "translation": "o‘z ichiga olmoq",
+        "association": "inkubator tasavvur qiling bir nechta tovuq mahsulotlarini ishlab chiqarishni o‘z ichiga oladigan zavod va mingta jo‘ja saqlaydigan inkubator sotib olmoqchisiz."
+        },
+        "apologetic": {
+        "transcription": "epalejetik",
+        "translation": "xijolat bo‘lgan",
+        "association": "epladik tasavvur qiling sahnada chiqish qilib xijolat bo‘lgan bo‘lsak ham epladik deb xuesand bo‘lyapsiz."
+        },
+        "benign": {
+        "transcription": "binain",
+        "translation": "muloyim",
+        "association": "bino tasavvur qiling bir xushfe’l, muloyim binoni sevib qoldingiz."
+        },
+        "char": {
+        "transcription": "chaar",
+        "translation": "kuydirmoq",
+        "association": "Charos tasavvur qiling charos degan qizning sochini kuydirdingiz va u sizni sudga berdi."
+        },
+        "block": {
+        "transcription": "blok",
+        "translation": "bo‘lak",
+        "association": "bo‘lak tasavvur qiling bir bo‘lak nonni 100 dollarga sotib olyapsiz."
+        },
+        "cheer": {
+        "transcription": "chier",
+        "translation": "qichqirmoq",
+        "association": "kir-chir tasavvur qiling kir-chirlaringiz kamligidan xursand bo‘lib qichqiryapsiz."
+        },
+        "complex": {
+        "transcription": "kompleks",
+        "translation": "murakkab",
+        "association": "kompyuter tasavvur qiling dunyodagi eng murakkab kompyuterni yaratdingiz."
+        },
+        "critic": {
+        "transcription": "kritik",
+        "translation": "tanqidchi",
+        "association": "kiritdik tasavvur Ginnes rekordlari kitobiga tanqidchilarni ham kiritdik."
+        },
+        "average": {
+        "transcription": "averij",
+        "translation": "o‘rtacha, o‘rtahol",
+        "association": "alvonch tasavvur qiling o‘rtacha balandlikdagi alvonchda tebranib o‘tirbisiz."
+        },
+        "behavior": {
+        "transcription": "biheivyer",
+        "translation": "xulq-atvor",
+        "association": "behi yeb yubor tasavvur qiling xulq-atvoringizni to‘g‘rilash uchun doktor sizga “behi yeb yubor” deb tez aytyapti."
+        },
+        "behind": {
+        "transcription": "bihaind",
+        "translation": "orqasida/ga",
+        "association": "ibi hay tasavvur qiling orqangizda birov Buxorocha she’vada “ibi hay, ibi hay” deb turibdi."
+        },
+        "course": {
+        "transcription": "koors",
+        "translation": "kurs, dars",
+        "association": "kurs bir xil so‘zlar."
+        },
+        "lower": {
+        "transcription": "louer",
+        "translation": "pasay(tir)moq",
+        "association": "lor tasavvur qiling lor burningizni pasaytirib qo‘ydi."
+        },
+        "angle": {
+        "transcription": "enggl",
+        "translation": "burchak",
+        "association": "(Angliya) tasavvur qiling Angliyadagi bir muzeyning burchagida O’zbekiston bayrogini ko’rib qoldingiz."
+        },
+        "boot": {
+        "transcription": "but",
+        "translation": "etik",
+        "association": "(butik) tasavvur qiling eng mashhur Butik magazinlaridan eng qimmat, chiroyli etik sotib oldingiz."
+        },
+        "border": {
+        "transcription": "bordir",
+        "translation": "chegara",
+        "association": "bordir tasavvur qiling sizdan jahli chiqqan do’stlaringiz har narsaning ham chegarasi bor deb to’tta chegarani sizga chizib berishdi."
+        },
+        "congratulate": {
+        "transcription": "kengratuleit",
+        "translation": "tabriklamoq",
+        "association": "keng tualet tasavvur qiling uyga kelgan mehmonlaringiz keng tualetingiz borligidan sizni tabriklashdi."
+        },
+        "borrow": {
+        "transcription": "borou",
+        "translation": "qarzga olmoq",
+        "association": "birrov tasavvur qiling do’stingiz sizdan birrovga qarz olib turishni iltimos qilyapti."
+        },
+        "client": {
+        "transcription": "klaint",
+        "translation": "mijoz",
+        "association": "kliyent tasavvur qiling siz ko’z vrachisiz va bugun kliyentlaringiz ko’payib ketti."
+        },
+        "downtown": {
+        "transcription": "dauntaun",
+        "translation": "shahar markazi",
+        "association": "davay taksi tasavvur qiling kechqurun do’stlaringiz bilan ko’ngil xushlik qilib yuripsiz va birdan shahar markaziga borishni hoxladingiz, uzoqligi uchun davay taksi ketamiz dedingiz va kettingiz."
+        }
+  }
+}
