@@ -35,7 +35,7 @@ const StartSpeedNumber = () => {
                 navigate('/speed-number/look')}} className='m-2 border border-amber-500 px-5 py-1 text-amber-500 rounded-md hover:text-white hover:bg-amber-600 ease-linear duration-150'>Start</button>
             </div>
         </div>
-        <p>Set your complite number:</p>
+        <p>Set your system number count:</p>
                 <span className='my-2'>example <span className='border border-amber-400 '>1 2 <span className='bg-amber-400 px-1'>3 4</span> 5 6 7 8</span></span>
                 <select name="system" style={{width:'100px'}} className='border border-amber-400' id="system" onChange={(e)=>{dispatch(setSystem(e.target.value))}}>
                     <option disabled style={{display:"none"}}>Select</option>
@@ -46,7 +46,6 @@ const StartSpeedNumber = () => {
                     <option value="5">5</option>
                     <option value="6">6</option>
                 </select>
-                <button onClick={()=>{console.log(inputt)}}>asd</button>
     </div>
   )
 }

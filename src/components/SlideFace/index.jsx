@@ -20,7 +20,7 @@ import { Pagination, Navigation } from 'swiper/modules';
 export default function SlideFace() {
   return (
     <>
-      <Swiper
+      {/* <Swiper
         slidesPerView={1}
         spaceBetween={30}
         loop={true}
@@ -51,7 +51,7 @@ export default function SlideFace() {
         <p className='text-6xl text-center mt-3'>Bekzod Nuraliyev</p>
         <br/>
         </SwiperSlide>
-      </Swiper>
+      </Swiper> */}
     </>
   );
 }

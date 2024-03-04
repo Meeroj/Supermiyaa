@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getNumber, numberFinishing, setNumber } from '../../slice/speedNumber';
 import { useNavigate } from 'react-router-dom';
-import Danger from "../../../public/sound/danger.mp3"
 
 const SpeedNumberLook = ({time}) => {
     const dispatch = useDispatch()
@@ -79,7 +78,8 @@ const SpeedNumberLook = ({time}) => {
         dispatch(numberFinishing())
     }
     const handleNext=()=>{
-        setNumberBg(prev => (prev + system) % count);
+        setNumberBg(prev => (Number(prev)+Number(system))%count);
+
     
     }
     
@@ -88,13 +88,7 @@ const SpeedNumberLook = ({time}) => {
 
     }
 
-    window.onblur = () => {
-        const audio = new Audio();
-        audio.src = Danger;
-        audio.loop = true;
-        audio.play();
-        dispatch(numberFinishing())
-    };
+
     return (
         isNumberStart ? (
             <div className='flex items-center pt-3 lg:start-[20vw] flex-col lg:relative w-full lg:w-[75vw] mb-10'>

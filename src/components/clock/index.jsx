@@ -42,7 +42,7 @@ const Clock = () => {
        {minutes < 10 ? `0${minutes}` : minutes}:
       {seconds < 10 ? `0${seconds}` : seconds}
      </p>
-     <AudioPlayer src={timerVoice} />
+     {/* <AudioPlayer src={timerVoice} /> */}
     </h1>
   </div>
   );

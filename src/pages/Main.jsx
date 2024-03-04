@@ -8,7 +8,7 @@ const Main = () => {
   return (
     <div className='flex flex-wrap justify-between p-5 relative w-full lg:w-[75vw] lg:start-[20vw] mb-5'>
     <div className="container mx-auto">
-      <h1 className="text-3xl font-regular mb-8">Attendance Tracker</h1>
+      <h1 className="text-3xl font-regular mb-8">Umumiy natijalar</h1>
       <div className="grid grid-cols-1 gap-4">
         <AttendanceTracker/>
           <div

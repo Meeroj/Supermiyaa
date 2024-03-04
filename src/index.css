@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: Oswald;
+  src: url('./fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
+
 *{
   font-family: 'Oswald', sans-serif;
   user-select: none;
